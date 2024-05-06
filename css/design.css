@@ -1,0 +1,27 @@
+  @font-face {
+    font-family:"poppins";
+    src: url("/fonts/pxiByp8kv8JHgFVrLDz8Z1xlEw.woff");
+  }
+  
+  .container{
+    font-family:"poppins";
+  }
+  
+  pre{
+    font-family:"poppins";
+  }
+
+  div{
+    font-family: poppins;
+  }
+
+  body{
+    background-color:#203129;
+  }   
+  #linker{
+    cursor: pointer;
+  }
+  #linker:hover{
+    color: #0f7eb6;
+    text-shadow: 0 0 2px #000000; 
+  }
